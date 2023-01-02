@@ -1,0 +1,2 @@
+Average class accuracy: 0.4351937915684367
+ Average Loss: 3.887077808380127
